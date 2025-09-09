@@ -80,7 +80,7 @@ Po uruchomieniu programu wyświetla się banner ASCII oraz **menu główne** z o
 
 1. 📂 Pobierz repozytorium (lub sklonuj):
    ```bash
-   git clone https://github.com/twoj-login/GhostNuker.git
+   git clone https://github.com/shinxsdoki/GhostNuker.git
 ▶️ Uruchom plik:
 
 
@@ -112,5 +112,6 @@ Używaj odpowiedzialnie i tylko na własnych serwerach/testach.
 
 👤 Autor & Kontakt
 ✍️ Stworzone przez [Twój Nick / Login GitHub]
+
 
 📩 Discord: shinxsdoki
