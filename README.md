@@ -111,7 +111,8 @@ Nie odpowiadam za sposób, w jaki będzie wykorzystywany.
 Używaj odpowiedzialnie i tylko na własnych serwerach/testach.
 
 👤 Autor & Kontakt
-✍️ Stworzone przez [Twój Nick / Login GitHub]
+✍️ Stworzone przez shinxsdoki
 
 
 📩 Discord: shinxsdoki
+
